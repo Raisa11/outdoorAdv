@@ -1,0 +1,295 @@
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	
+}
+
+body{
+
+}
+
+.header-section{
+	width: 1000px;
+	height: 390px;
+	
+	
+
+    margin: auto;
+    background-image: url("../images/hill17.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    
+
+ }
+
+nav{}
+.container{
+	overflow: hidden;
+}
+.container h1{
+	width: 10%;
+    float: left;
+    text-align: left;
+    display: inline-block;
+    padding-bottom: 20px;
+    position: absolute;
+    padding-left: 150px;
+   }
+
+ .container p{
+ 	width: 10%;
+    float: left;
+    text-align: left;
+    display:inline-block; 
+    position: relative;
+    padding-top: 15px;
+     padding-left: 150px;
+    }
+
+nav ul{
+ 	
+    
+    width: 90%;
+  
+
+    
+	 text-align: right;
+}
+ nav ul li{
+	 list-style: none;
+	  
+    display: inline-block;
+}
+nav ul li a{
+	
+	text-decoration: none;
+	color: black;
+	
+    
+    text-transform: capitalize;
+    font-weight: 600;
+    padding: 0 5px;
+    display: block;
+    
+}
+nav ul li button{
+
+border-radius: 10px;
+    padding: 5px;
+    background: none;
+    border-color: black;
+}
+  
+
+
+.banner-section{
+	text-align: center;
+    padding-top: 60px;
+}
+.banner-section h4{
+	font-size: larger;
+	    font-weight: bolder;
+}
+.banner-section h1{
+	font-size: -webkit-xxx-large;
+	padding: 5px;
+}
+.banner-section button{
+	margin-top: 20px;
+   
+    background: #e20f17;
+   
+    border-radius: 20px;
+    padding: 10px 12px;
+    font-weight: bold;
+    border-color: red
+}
+
+.quotePart{
+	text-align: center;
+	padding: 25px 0;
+}
+.quotePart p{}
+.quotePart h5{}
+
+h1{text-align: center;
+    padding: 15px;
+   
+}
+
+.second-part{
+	width: 600px;
+    margin: auto;
+    overflow: hidden;
+    height:400px;
+
+    }
+
+   
+   
+
+
+.second-part .col1-2{
+	width: 50%;
+   float:left;
+   text-align: center;
+    padding: 50px 10px;
+  
+
+   
+
+
+}
+.second-part .col1-2 img{
+	max-width: 100%;
+	
+	
+}
+.second-part .col1-2 h2{
+	    padding-top: 25px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.second-part .col1-2 p{}
+.second-part .col1-2 h5{
+	padding-top: 15px;
+    text-align: center;
+    color: red;
+}
+
+.thirdPart{
+	width: 1000px;
+	height:350px;
+	
+	
+
+    margin: auto;
+    background-image: url("../images/hill22.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+
+}
+.thirdPart h1{
+	padding-right: 150px;
+    text-align: right;
+    padding-top: 100px;
+    font-weight: bolder;
+    color: black;
+   font-size: -webkit-xxx-large;
+}
+.thirdPart p{
+	padding-right: 100px;
+    
+    text-align: center;
+    padding-left: 460px;
+
+}
+.thirdPart h5{
+	text-align: center;
+    padding-left: 400px;
+    color: #da0f20;
+    font-size: medium;
+    padding-top: 30px;
+}
+
+.fourthPart{
+	width: 1000px;
+	margin: auto;
+	height: 600px;
+	
+    padding-left: 160px;
+    padding-top: 90px;
+	
+	overflow: hidden;
+}
+.fourthPart .content-Box1{
+	width: 30%;
+	padding-right: 20px;
+	
+	float: left;
+	overflow: hidden;
+}
+.fourthPart .content-Box1 h1{
+	text-align: left;
+	padding-top: 0;
+	padding-left: 0;
+	padding-right: 40px;
+
+}
+.fourthPart .content-Box1 p{
+	padding-bottom: 20px;
+	text-align: left;
+	padding-top: 25px;
+    padding-right: 40px;
+
+}
+.fourthPart .content-Box1 button{
+	background-color:  red;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 25px;
+}
+.fourthPart .content-Box2{
+	width: 70%;
+	
+	
+	float: left;
+	overflow: hidden;
+}
+.fourthPart .content-Box2 .col1-2{
+	width: 35%;
+	float: left;
+	padding-right: 10px;
+	
+	
+}
+.fourthPart .content-Box2 .col1-2 .col1-4{
+float: left;
+    padding-bottom: 5px;
+   
+    overflow: hidden;
+
+ 
+}
+.fourthPart .content-Box2 .col1-2 .col1-4 img{
+	
+	
+	max-width : 100%;
+
+}
+
+.fourthPart .content-Box2 .col1-2 .col1-3{
+	
+	float: left;
+    
+    
+    padding-bottom: 5px;
+	overflow: hidden;
+
+}
+.fourthPart .content-Box2 .col1-2 .col1-3 img{
+	
+	max-width: 100%;
+}
+
+
+footer{
+	width: 1000px;
+	height: 100px;
+	margin: auto;
+	background-color: black;
+	color: white;
+}
+footer p{
+	padding-top: 15px;
+	text-align: center;
+}
+
+
+
